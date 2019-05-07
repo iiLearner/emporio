@@ -1,0 +1,4 @@
+Electronics;WATT;5;6.7;bca4837a-ac84-4315-b52f-98deeba3a6b8;Lamp;5.5;5.5
+Electronics;WATT;6;3.0;db11cd4f-0239-4568-955e-b9ba5047390e;dfs;56.0
+Wood;KG;19;24.0;ad217f5c-a0b7-4377-9257-23163080357c;dfghj;6;Oak
+Electronics;WATT;3;4.0;16e1ba3d-4c5c-4554-b164-2148eae4fa8b;Lamp;4.0;5.5
